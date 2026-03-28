@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "base_track": "Locker",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-03-28T08:55:58.312282Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Locker bleiben",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/01_Locker_bleiben_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Locker Leak",
+      "artist": "Holly Herndon feat. Spencer Longo",
+      "has_synced": false,
+      "path": "select/02_Locker_Leak_Holly_Herndon_feat._Spencer_Longo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Locker Leak (Feat. Spencer Longo)",
+      "artist": "Holly Herndon",
+      "has_synced": false,
+      "path": "select/03_Locker_Leak_(Feat._Spencer_Longo)_Holly_Herndon.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sarah's Locker",
+      "artist": "Plushgun",
+      "has_synced": true,
+      "path": "select/04_Sarah's_Locker_Plushgun.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "life in a locker (feat. Jomie & Skinny Atlas)",
+      "artist": "Powfu feat. Jomie & Skinny Atlas",
+      "has_synced": true,
+      "path": "select/05_life_in_a_locker_(feat._Jomie_&_Skinny_Atlas)_Powfu_feat._Jomie_&_Skinny_Atlas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "life in a locker (feat. Skinny Atlas)",
+      "artist": "Powfu",
+      "has_synced": true,
+      "path": "select/06_life_in_a_locker_(feat._Skinny_Atlas)_Powfu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hurt Locker",
+      "artist": "Finneas",
+      "has_synced": true,
+      "path": "select/07_Hurt_Locker_Finneas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Locker bleiben",
+      "artist": "Die Prinzen",
+      "has_synced": false,
+      "path": "select/08_Locker_bleiben_Die_Prinzen.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Locker",
+      "artist": "Mike Krol",
+      "has_synced": true,
+      "path": "select/09_Locker_Mike_Krol.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "life in a locker [Explicit]",
+      "artist": "Powfu & Jomie [feat. Skinny Atlas]",
+      "has_synced": true,
+      "path": "select/10_life_in_a_locker_[Explicit]_Powfu_&_Jomie_[feat._Skinny_Atlas].lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Davey Jones' Locker",
+      "artist": "David Gray",
+      "has_synced": false,
+      "path": "select/11_Davey_Jones'_Locker_David_Gray.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "FOOT LOCKER (feat. Geolier)",
+      "artist": "Noyz Narcos feat. Geolier & Night Skinny",
+      "has_synced": true,
+      "path": "select/12_FOOT_LOCKER_(feat._Geolier)_Noyz_Narcos_feat._Geolier_&_Night_Skinny.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "FOOT LOCKER (feat. Geolier)",
+      "artist": "Noyz Narcos",
+      "has_synced": true,
+      "path": "select/13_FOOT_LOCKER_(feat._Geolier)_Noyz_Narcos.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hurt Locker",
+      "artist": "Burner",
+      "has_synced": true,
+      "path": "select/14_Hurt_Locker_Burner.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Liquor Locker",
+      "artist": "Vic Mensa",
+      "has_synced": true,
+      "path": "select/15_Liquor_Locker_Vic_Mensa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "When Love Explodes (Love Theme from \"Hurt Locker: The Musical\")",
+      "artist": "Hedwig and the Angry Inch - Original Broadway Cast",
+      "has_synced": true,
+      "path": "select/16_When_Love_Explodes_(Love_Theme_from__Hurt_Locker__The_Musical_)_Hedwig_and_the_Angry_Inch_-_Original_Broadway_Cast.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "When Love Explodes (Love Theme From 'Hurt Locker: The Musical')",
+      "artist": "Hedwig & The Angry Inch",
+      "has_synced": true,
+      "path": "select/17_When_Love_Explodes_(Love_Theme_From_'Hurt_Locker__The_Musical')_Hedwig_&_The_Angry_Inch.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Locker (feat. G-k.i.d, Tiji Jojo & YZERR)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_Locker_(feat._G-k.i.d,_Tiji_Jojo_&_YZERR)_BAD_HOP.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Locker",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/localdb_01_Locker_BAD_HOP.txt",
+      "repo_name": "WmgiI_juOP4"
+    }
+  ]
+}
